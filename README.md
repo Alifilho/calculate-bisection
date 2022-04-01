@@ -2,6 +2,8 @@
 
 Projeto em node, para trocar os valores de cálculo é só trcoar os valores
 
+rodar em node com ```node main.js``` os valores printados serão as raízes
+
 
 ```
 /*
